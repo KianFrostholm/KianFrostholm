@@ -1,0 +1,4 @@
+- 👋 Hej, Jeg hedder Kian Frostholm
+- 👀 Jeg har de seneste 3 år brugt al min fritid på FiveM udvikling, skinning og meget mere
+- 🌱 Jeg er pt. igang med at specificere mig i discord bots til servere
+- 📫 Ønsker ud mig som udvikler eller har du nogen spørgsmål så kontakt mig på Discord: Kian Frostholm#0001

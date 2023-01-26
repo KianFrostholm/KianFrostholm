@@ -7,9 +7,6 @@
   <a href="[https://discord.com/invite/4dUvf34](https://discord.gg/8s5ZJ649tZ)">
     <img src="https://i.ibb.co/Rg03rFf/discord.png" alt="Discord server" height="75"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCZBfLwSinMYB-HnXr0Tf_uw/videos">
-    <img src="https://i.ibb.co/9hsgJst/youtube-icon-logo-vector.png" alt="YouTube channel" height="75"/>
-  </a>
 </p>
 
 <!--
